@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Track-API/static/css/main.073c9b0a.css",
+    "main.js": "/Track-API/static/js/main.0e0fa227.js",
+    "static/js/787.7511f9e9.chunk.js": "/Track-API/static/js/787.7511f9e9.chunk.js",
+    "index.html": "/Track-API/index.html",
+    "main.073c9b0a.css.map": "/Track-API/static/css/main.073c9b0a.css.map",
+    "main.0e0fa227.js.map": "/Track-API/static/js/main.0e0fa227.js.map",
+    "787.7511f9e9.chunk.js.map": "/Track-API/static/js/787.7511f9e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0e0fa227.js"
+  ]
+}
